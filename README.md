@@ -4,9 +4,9 @@ Data-driven and case-study competition (3rd Edition), this time on **Sustainable
 
 Our winning solution answered to the question: _How to promote Matosinhos' transition to micromobility, towards decarbonization?_The proposed solution included 3 dimensions, focused both on **supply and demand**:
 
-* 1) user encouragement
-* 2) effective targeting of communication strategies
-* 3) fleet optimization.
+* user encouragement
+* effective targeting of communication strategies
+* fleet optimization.
 
 For that, predictive and prescriptive models were trained with **big data**, provided by CEiiA and Câmara Municipal de Matosinhos, social partners of the competition.
 
